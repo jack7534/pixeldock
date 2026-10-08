@@ -379,3 +379,14 @@ When reporting a problem, include the PixelDock version, the exact error message
 
 This guide documents the application’s behavior. It does not guarantee that installation or synchronization has been verified on every computer.
 
+
+## Applied theme gallery
+
+![PixelDock complete interface — Gold / Teal](images/01-shared-dock.png)
+
+![PixelDock complete interface — Violet / Cyan](images/13-skin-violet-cyan.png)
+
+![PixelDock complete interface — Ice / Blue](images/14-skin-ice-blue.png)
+
+![PixelDock complete interface — Ember / Ice](images/15-skin-ember-ice.png)
+
